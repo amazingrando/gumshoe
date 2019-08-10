@@ -1,0 +1,12 @@
+{
+  "name": "gumshoe",
+  "version": "1.0.0",
+  "description": "Gumshoe SRD",
+  "main": "index.js",
+  "scripts": {
+    "pandoc": "pandoc -t gfm --wrap=none -o GumshoeSRD.md src/GUMSHOESRDCC-2.docx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randy Oest <oest@amazingrando.com>",
+  "license": "ISC"
+}
