@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "pandoc": "pandoc -t gfm --wrap=none -o GumshoeSRD.md src/GUMSHOESRDCC-2.docx",
-    "split": "split-md GumshoeSRD.md '# ' '#' 'dist/' undefined true",
+    "split": "split-md GumshoeSRD.md '# ' '#' 'srd/' undefined true",
+    "process": "yarn pandoc && yarn split && node scripts/remove.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Randy Oest <oest@amazingrando.com>",
-  "license": "ISC",
+  "license": "CC_by_3.0",
   "dependencies": {
     "split-md": "/Users/oest/www/ar/split-md"
   }
