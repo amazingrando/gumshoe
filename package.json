@@ -6,7 +6,6 @@
   "scripts": {
     "pandoc": "pandoc -t gfm --wrap=none -o GumshoeSRD.md src/GUMSHOESRDCC-2.docx",
     "split": "split-md GumshoeSRD.md '# ' '#' 'srd/' undefined true",
-    "process": "yarn pandoc && yarn split && node scripts/remove.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Randy Oest <oest@amazingrando.com>",

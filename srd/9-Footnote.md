@@ -1,7 +1,7 @@
-<!-- order:11 -->
-# 
+<!-- order:9 -->
+# Footnote
 
-1.  
+1.
 2.  In other words, treat the negative number as a positive. For example, if your Health pool is at –3, the Difficulty of the roll is 3, and so on.
 
 3.  In other words, treat the negative number as a positive. For example, if your Stabilty pool is at –3, the Difficulty of the roll is 3, and so on.

@@ -1,5 +1,7 @@
-<!-- order:3 -->
-# Copyright Notice
+<!-- order:1 -->
+# GUMSHOE SRD CREATIVE COMMONS VERSION
+
+## Copyright Notice
 
 GUMSHOE SRD © 2017 Pelgrane Press.
 

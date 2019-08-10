@@ -1,4 +1,4 @@
-<!-- order:6 -->
+<!-- order:4 -->
 # Your Character
 
 Create player characters by choosing your **character concept, investigative abilities,** and **general abilities.**
@@ -17,7 +17,7 @@ For each ability your character has a **pool** of points, which fluctuates over 
 
 The distinction between ratings and pools is a crucial one; keep it in mind as you read and interpret the GUMSHOE rules.
 
-## Step One: Concept 
+## Step One: Concept
 
 *\[Describe the sorts of mystery-solving characters the players will play in your setting, and any preliminary creative decisions each player will make about her character.\]*
 

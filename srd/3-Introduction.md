@@ -1,6 +1,5 @@
-<!-- order:5 -->
-#   
-Introduction
+<!-- order:3 -->
+# Introduction
 
 This standard reference document provides the GUMSHOE rules made available via the terms of the Open Gaming and Creative Commons-By Attribution licenses. It is a reference for game designers, and is not tuned to teach the game, or provide a playable game experience. If you’re looking for a playable game, seek out such Pelgrane Press titles as *TimeWatch*, *The Esoterrorists*, *Trail of Cthulhu*, *Ashen Stars*, *Night’s Black Agents*, *Mutant City Blues*, or *Fear Itself*. Or watch for games the users of this license will build with it.
 

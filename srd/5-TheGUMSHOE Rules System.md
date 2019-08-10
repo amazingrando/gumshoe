@@ -1,4 +1,4 @@
-<!-- order:7 -->
+<!-- order:5 -->
 # The GUMSHOE Rules System
 
 This section describes the basic GUMSHOE rules system and is addressed to players and GM alike. But first bear with us for a little explanatory theory.
@@ -655,7 +655,7 @@ The threat of chronal instability is one of the major challenges facing a TimeWa
 
 Lost Chronal Stability points can only be restored with the Reality Anchor ability, as your allies keep you centered and remind you who you truly are. Lost Chronal Stability cannot be restored directly by cashing in Stitches. If your Chronal Stability drops to 0 or below, you are at risk of fading away, being erased from the universe, or suffering from lingering insanity after accidentally being subsumed by someone else’s life.
 
-Any time you first experience a paradox, you make a Paradox test. A paradox occurs when an already established event is contradicted. 
+Any time you first experience a paradox, you make a Paradox test. A paradox occurs when an already established event is contradicted.
 
 #### How Paradox Tests Work
 
@@ -891,7 +891,7 @@ Your GM may also hand out Stitches if she makes a narrative decision that disadv
 
 It’s up to the GM how many Stitches a player can have at one time; this is called the **hoarding limit**. In most games, the hoarding limit is usually 3 at once. If you’re at your hoarding limit, you must spend one or more Stitches before you can earn any more. If someone tries to hand you a Stitch when you’re already at the hoarding limit, you can immediately spend one or more of your existing Stitches to refresh pool points, and then accept the newly proffered one.
 
-#### What Stitches Do 
+#### What Stitches Do
 
 Stitches can be used for five things: slightly refreshing a pool, aiding another character through teamwork, simplifying time travel, boosting your weapon damage, or reducing weapon damage inflicted on you. The Teamwork benefit aside, you can never normally spend Stitches on behalf of someone else.
 

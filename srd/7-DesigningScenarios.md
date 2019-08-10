@@ -1,4 +1,4 @@
-<!-- order:9 -->
+<!-- order:7 -->
 # Designing Scenarios
 
 The GUMSHOE system supports a certain style of scenario design. The rules are less important to the success of your game than the way you structure your adventures.
@@ -87,7 +87,7 @@ Scenes fall into the following types.
 
 This is the first scene of the episode. It establishes the premise of the mystery. If it’s the characters’ first meeting, have the agents first rendezvous with one another. Then, they meet Mr. Verity in a second secure locale where you provide the briefing and answer questions. When sent to deal with an emergency already in, they go direct to the scene and are briefed there by Mr. Verity. You can extend this scene if it’s your first session of the Esoterrorists. See the Introductory scene in Operation Prophet Bunco.
 
-### Core 
+### Core
 
 Core scenes present at least one piece of information necessary to complete the investigation and get to the climactic scene.
 
