@@ -1,8 +1,6 @@
-# 
-
 # GUMSHOE SRD CREATIVE COMMONS VERSION
 
-# Copyright Notice
+## Copyright Notice
 
 GUMSHOE SRD © 2017 Pelgrane Press.
 
@@ -28,8 +26,7 @@ Permission is not granted to use the GUMSHOE logo. Contact <support@pelgranepres
 
 Updated to include TimeWatch RPG content.
 
-#   
-Introduction
+# Introduction
 
 This standard reference document provides the GUMSHOE rules made available via the terms of the Open Gaming and Creative Commons-By Attribution licenses. It is a reference for game designers, and is not tuned to teach the game, or provide a playable game experience. If you’re looking for a playable game, seek out such Pelgrane Press titles as *TimeWatch*, *The Esoterrorists*, *Trail of Cthulhu*, *Ashen Stars*, *Night’s Black Agents*, *Mutant City Blues*, or *Fear Itself*. Or watch for games the users of this license will build with it.
 
@@ -57,7 +54,7 @@ For each ability your character has a **pool** of points, which fluctuates over 
 
 The distinction between ratings and pools is a crucial one; keep it in mind as you read and interpret the GUMSHOE rules.
 
-## Step One: Concept 
+## Step One: Concept
 
 *\[Describe the sorts of mystery-solving characters the players will play in your setting, and any preliminary creative decisions each player will make about her character.\]*
 
@@ -2089,7 +2086,7 @@ The threat of chronal instability is one of the major challenges facing a TimeWa
 
 Lost Chronal Stability points can only be restored with the Reality Anchor ability, as your allies keep you centered and remind you who you truly are. Lost Chronal Stability cannot be restored directly by cashing in Stitches. If your Chronal Stability drops to 0 or below, you are at risk of fading away, being erased from the universe, or suffering from lingering insanity after accidentally being subsumed by someone else’s life.
 
-Any time you first experience a paradox, you make a Paradox test. A paradox occurs when an already established event is contradicted. 
+Any time you first experience a paradox, you make a Paradox test. A paradox occurs when an already established event is contradicted.
 
 #### How Paradox Tests Work
 
@@ -2325,7 +2322,7 @@ Your GM may also hand out Stitches if she makes a narrative decision that disadv
 
 It’s up to the GM how many Stitches a player can have at one time; this is called the **hoarding limit**. In most games, the hoarding limit is usually 3 at once. If you’re at your hoarding limit, you must spend one or more Stitches before you can earn any more. If someone tries to hand you a Stitch when you’re already at the hoarding limit, you can immediately spend one or more of your existing Stitches to refresh pool points, and then accept the newly proffered one.
 
-#### What Stitches Do 
+#### What Stitches Do
 
 Stitches can be used for five things: slightly refreshing a pool, aiding another character through teamwork, simplifying time travel, boosting your weapon damage, or reducing weapon damage inflicted on you. The Teamwork benefit aside, you can never normally spend Stitches on behalf of someone else.
 
@@ -2722,7 +2719,7 @@ PaciFists have a rating of Stun 5. They only work at Point-Blank and (if used wi
 
 Making a successful Tinkering test can **overcharge** a PaciFist, boosting its effect up to either Stun 6 or Near range, your choice, for its next shot. Rolling a 1 on the d6 during an overcharged attack burns out the weapon regardless of whether the attack was successful. Fixing a burned out weapon requires 10 minutes of work time and a successful Tinkering test.
 
-### Tether 
+### Tether
 
 Future, Subtle, Standard
 
@@ -2844,7 +2841,7 @@ Scenes fall into the following types.
 
 This is the first scene of the episode. It establishes the premise of the mystery. If it’s the characters’ first meeting, have the agents first rendezvous with one another. Then, they meet Mr. Verity in a second secure locale where you provide the briefing and answer questions. When sent to deal with an emergency already in, they go direct to the scene and are briefed there by Mr. Verity. You can extend this scene if it’s your first session of the Esoterrorists. See the Introductory scene in Operation Prophet Bunco.
 
-### Core 
+### Core
 
 Core scenes present at least one piece of information necessary to complete the investigation and get to the climactic scene.
 
@@ -3008,9 +3005,9 @@ Before play, take an index card and write on it, in big block letters, the word 
 
 Even better, use one of the musical stings available from the Pelgrane Press website for just this purpose.
 
-# 
+# Footnotes
 
-1.  
+1.
 2.  In other words, treat the negative number as a positive. For example, if your Health pool is at –3, the Difficulty of the roll is 3, and so on.
 
 3.  In other words, treat the negative number as a positive. For example, if your Stabilty pool is at –3, the Difficulty of the roll is 3, and so on.

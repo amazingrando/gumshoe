@@ -6,6 +6,8 @@ This repo has a markdown version of the [Gumshoe SRD](https://site.pelgranepress
 
 This area is for processing the Word doc SRD.
 
+🚨Currently waiting for this PR to get merged https://github.com/accraze/split-md/pull/80.
+
 ### Requirements
 
 - [Pandoc](https://pandoc.org/installing.html) installed on your system.
