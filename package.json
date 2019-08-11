@@ -11,6 +11,6 @@
   "author": "Randy Oest <oest@amazingrando.com>",
   "license": "CC_by_3.0",
   "dependencies": {
-    "split-md": "/Users/oest/www/ar/split-md"
+    "split-md": "https://github.com/amazingrando/split-md#version"
   }
 }
