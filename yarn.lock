@@ -82,9 +82,10 @@ path-is-absolute@^1.0.0:
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
   integrity sha1-F0uSaHNVNP+8es5r9TpanhtcX18=
 
-"split-md@https://github.com/amazingrando/split-md#version":
-  version "1.0.0"
-  resolved "https://github.com/amazingrando/split-md#ba695c613d901f0d597fbe49b32f9ab4bcaefc6f"
+split-md@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/split-md/-/split-md-0.3.0.tgz#6efc87b5459d6a5c39f082f6fe5460668fe5e56d"
+  integrity sha512-jRBJasLUBkAqxYf0s1poYwBkWlSetSLB5euBuLuH2JcgypCkpDOmDEWRL3XnaGHaOCrSq2XiQyy+EDSyBM2kkw==
   dependencies:
     cli "1.0.1"
 

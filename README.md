@@ -8,7 +8,8 @@ You will find it in the [`srd` folder](/srd).
 
 This area is for processing the Word doc SRD.
 
-🚨Currently waiting for this PR to get merged https://github.com/accraze/split-md/pull/80.
+- `yarn pandoc` will create a master Markdown file.
+- `yarn split` will create the split SRD files.
 
 ### Requirements
 
