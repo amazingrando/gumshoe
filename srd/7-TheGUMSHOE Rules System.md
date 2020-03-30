@@ -1,4 +1,4 @@
-<!-- order:5 -->
+<!-- order:7 -->
 # The GUMSHOE Rules System
 
 This section describes the basic GUMSHOE rules system and is addressed to players and GM alike. But first bear with us for a little explanatory theory.
@@ -179,6 +179,10 @@ Where it is essential to overcome a General obstacle in order to reach a core sc
 
 The test represents the character’s best chance to succeed. Once you fail, you’ve shot your wad and cannot retry unless you take some other supporting action that would credibly increase your odds of success. If allowed to do this, you must spend more pool points than you did on the previous attempt. If you can’t afford it, you can’t retry.
 
+### Margins
+
+In some special tests or contests, the difference between difficulty and result is used to determine the degree of failure or success. This number is called the **margin**.
+
 ### Piggybacking
 
 When a group of characters act in concert to perform a task together, they designate one to take the lead. That character makes a simple test, spending any number of his own pool points toward the task, as usual. All other characters pay 1 point from their relevant pools in order to gain the benefits of the leader’s action. These points are not added to the leader’s die result. For every character who is unable to pay this piggybacking cost, either because he lacks pool points or does not have the ability at all, the Difficulty Number of the attempt increases by 2.
@@ -188,6 +192,16 @@ In most instances a group cannot logically act in concert. Only one character ca
 ### Cooperation
 
 When two characters cooperate toward a single goal, they agree which of them is undertaking the task directly, and which is assisting. The leader may spend any number of points from her pool, adding them to the die roll. The assistant may pay any number of points from his pool. All but one of these is applied to the die roll.
+
+## Spends
+
+Occasionally you’ll want to create a task where, absent a weird and blundering choice on the part of the players, the characters certainly succeed. In this instance, you simply charge the character(s) a number of points from relevant General ability pools, called a spend. Spends can be paid by one character, or multiple players might chip in.
+
+## Competitive Tests
+
+Very occasionally PCs compete to see who best performs a task. Each makes a test; the character with the highest result wins. If results tie, the character with the higher pool, then the higher rating, wins. If all of those factors come out even, the characters tie, no matter how odd that might be.
+
+In a case where it is possible for everyone to fail, competitors must also beat a Difficulty set by the GM.
 
 #### Continuing Challenges
 
@@ -244,6 +258,24 @@ In a toll test, your success is assured, if you want it enough, but the cost of 
 *\[Used in TimeWatch, travel tests are used instead of fuel to limit the frequency of time travel.\]*
 
 Every instance of time travel requires a Travel test, a simple Difficulty 4 / Loss 2 Paradox test. Effectively, roll a d6; roll 1–3, and lose 2 points of Chronal Stability. Paying a Stitch per trip bypasses the need for a Travel test.
+
+### Whew
+
+One type of partial refresh is the **whew.** It emulates the moment of relief in a narrative when the trepidation surrounding a daunting circumstance turns out to be nothing. *Whew\!*
+
+A whew provides a 2-point refresh.
+
+The whew most often applies to Composure. Award one when players clearly dread an upcoming story turn which instead proves completely innocuous:
+
+  - A tantalizing cooking aroma wafts from the apartment where the investigators expect to find the rest of a murder victim, horribly charred. Nope—he just had a pork shoulder slow cooking in the oven. *Whew\!*
+
+  - A thumping emanates from the attic above. The group steels itself to confront the scythe-wielding cannibal they’ve been hunting. But no, it’s just the cat. *Whew\!*
+
+To maintain the emotional power of the whew, use it sparingly and only when it fits. Often the players will set up a whew for you, by showing genuine terror of an upcoming moment you never intended to play as anything other than innocuous.
+
+Look particularly for situations where the group sends in only some of its members to confront the imagined awfulness. That way the brave get the reward and the cautious lose out.
+
+Whews that refresh other General abilities don’t come easily to mind but if one that makes sense presents itself during play, rule it in.
 
 ## Contests
 
@@ -692,15 +724,13 @@ A number of things can trigger Paradox tests. Here are some common examples, alo
 Paradox tests can be abbreviated for clarity and brevity. A Travel test would be abbreviated D4/L2, denoting Difficulty 4, Loss 2. If spending a Paradox Prevention point is required to succeed at the test, that’s also noted, such as D4/L4 – P when your future self wants to leave you a note.
 
 <table>
-<thead>
-<tr class="header">
-<th>TRIGGER</th>
-<th>DIFFICULTY/LOSS</th>
-<th>PARADOX PREVENTION SPEND REQUIRED?</th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td>TRIGGER</td>
+<td>DIFFICULTY/LOSS</td>
+<td>PARADOX PREVENTION SPEND REQUIRED?</td>
+</tr>
+<tr class="even">
 <td><p>No Paradox:</p>
 <ul>
 <li><p>You successfully restore history back to its true path, ending the mission</p></li>
@@ -708,14 +738,14 @@ Paradox tests can be abbreviated for clarity and brevity. A Travel test would be
 <td>None (no test required)</td>
 <td>No</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><ul>
 <li><p>Any time travel (“the Travel test”)</p></li>
 </ul></td>
 <td>D4/L2</td>
 <td>No</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Lesser Paradox:</p>
 <ul>
 <li><p>You learn, experience, or cause something that violates a known fact</p></li>
@@ -727,7 +757,7 @@ Paradox tests can be abbreviated for clarity and brevity. A Travel test would be
 <td>D4/L4</td>
 <td>No</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Paradox:</p>
 <ul>
 <li><p>Your future self leaves you a specific message or important clue about a future event</p></li>
@@ -740,7 +770,7 @@ Paradox tests can be abbreviated for clarity and brevity. A Travel test would be
 <td><p>Yes</p>
 <p>(if you choose not to spend a Paradox Prevention point, you can’t aid yourself in this way)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Greater Paradox:</p>
 <ul>
 <li><p>You overlap yourself in a scene and directly offer yourself aid (such as arriving to heal your own unconscious body, or your future self joining in an ongoing fight to double your firepower</p>
@@ -752,7 +782,7 @@ Paradox tests can be abbreviated for clarity and brevity. A Travel test would be
 <td><p>Yes</p>
 <p>(if you choose not to spend a Paradox Prevention point, you can’t aid yourself in this way)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Severe Paradox:</p>
 <ul>
 <li><p>You close off a time loop and remove the reason you time traveled in the first place, with the unfortunate result that two paradoxical versions of you exist simultaneously</p></li>
@@ -875,6 +905,56 @@ However, where a pool could be seen to correspond to a resource perceptible to t
 
 \[\[\[END SIDEBAR\]\]\]
 
+### Hunkering Down
+
+*\[\[Use in warlike settings, with the general abilities Battlefield and Scrounging\]\]*
+
+Once per scenario, the group can stop to temporarily Hunker Down, partially or fully refreshing their Battlefield and/or Athletics pools.
+
+When the players ask for an opportunity to Hunker Down, allow it if the interlude fits the pacing and situation. As guidelines, you might require that the squad be:
+
+  - traveling on foot
+
+  - through dangerous territory
+
+  - at least three hours of world time away from your point of departure
+
+  - one hour of world time away from your destination
+
+As GM, you can offer an opportunity to Hunker Down whenever the group needs it and it feels right given the current situation. When you offer, remind the players that they get to Hunker Down once per scenario.
+
+Designate one character to make a Difficulty 3 Scrounging test. The character must have a rating of 1 or greater in Scrounging.
+
+Difficulties increase in especially inhospitable, bombed-out, or alien territory: +1 for a denuded no man’s land, +2 for a twisted briar in an alternate realm.
+
+On a success, the scrounger finds a spot of relative safety where the squad can rest and regroup, momentarily relaxing their constant vigilance. This might be:
+
+  - an abandoned farmhouse
+
+  - a cave
+
+  - a gully
+
+  - a burbling creek bed at the bottom of a secluded ravine
+
+The GM invites the player to describe the spot, suggesting adjustments should the narration contradict details essential to the current mystery.
+
+Each player, including the scrounger’s, refreshes a number of points equal to the margin on the test. A margin of 0 is upgraded to a 1, so everyone gets at least one point. Points can be used to refresh Battlefield or Athletics.
+
+The GM then invites a player who could use, and would like, some spotlight time, to commence a quick session of classic wartime dialogue between the squad members. The group might:
+
+  - try to make sense of this blasted war
+
+  - reminisce about the sunlit days before the first guns rumbled
+
+  - guess what their loved ones are doing on the home front
+
+  - imagine what they’ll do next time they get leave
+
+  - make plans for their civilian futures after the war
+
+When this interlude loses momentum, the GM calls for a player who could use the spotlight time to explain why the group has to get a move on and leave this safe location. “We have a mission to accomplish/mystery to solve” is a perfectly solid reason. When the narrated explanation suggests danger, describe the group getting away from it. Giving the group a chance to refresh points and then putting them in a situation that immediately yanks them back will strike your players as an unfair waste of time.
+
 ### Stitches: TimeWatch’s Action Points
 
 It’s been said that in GUMSHOE games your entire character sheet is made out of action points: spend your pools, get better results on your dice. *TimeWatch* is no exception, so *TimeWatch*’s actual action points (called Stitches**,** as in “a stitch in time saves nine”) are a little different. They allow you to hang on longer in an action scene, or to raise or lower combat damage.
@@ -891,7 +971,7 @@ Your GM may also hand out Stitches if she makes a narrative decision that disadv
 
 It’s up to the GM how many Stitches a player can have at one time; this is called the **hoarding limit**. In most games, the hoarding limit is usually 3 at once. If you’re at your hoarding limit, you must spend one or more Stitches before you can earn any more. If someone tries to hand you a Stitch when you’re already at the hoarding limit, you can immediately spend one or more of your existing Stitches to refresh pool points, and then accept the newly proffered one.
 
-#### What Stitches Do
+#### What Stitches Do 
 
 Stitches can be used for five things: slightly refreshing a pool, aiding another character through teamwork, simplifying time travel, boosting your weapon damage, or reducing weapon damage inflicted on you. The Teamwork benefit aside, you can never normally spend Stitches on behalf of someone else.
 
@@ -957,8 +1037,9 @@ Antagonists refresh their Tempus pools fully after an 8-hour rest, so chasing do
 
 This list is far from comprehensive. If you think of a new, balanced, fun ability while designing an antagonist, just assign a Tempus cost and scribble it down, and you’re ready to go. Several abilities (such as Cybernetics, Mutation, and Technology) are a catchall for any number of other effects.
 
-| Ability                 | Cost              | Effect                                                                               |
+|                         |                   |                                                                                      |
 | ----------------------- | ----------------- | ------------------------------------------------------------------------------------ |
+| Ability                 | Cost              | Effect                                                                               |
 | Armor                   | 0 or 3            | Reduces damage                                                                       |
 | Awareness               | 0                 | Raises the Difficulty of player character Unobtrusiveness tests to hide              |
 | Blink                   | 2 + 1/round       | Flash in and out of combat                                                           |

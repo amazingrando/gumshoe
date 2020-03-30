@@ -1,4 +1,4 @@
-<!-- order:6 -->
+<!-- order:8 -->
 # Gear
 
 *\[The importance of gear varies from game to game. In TimeWatch, each agent has specified starting gear, and can build or acquire additional gear using Preparedness.\]*
@@ -65,7 +65,7 @@ PaciFists have a rating of Stun 5. They only work at Point-Blank and (if used wi
 
 Making a successful Tinkering test can **overcharge** a PaciFist, boosting its effect up to either Stun 6 or Near range, your choice, for its next shot. Rolling a 1 on the d6 during an overcharged attack burns out the weapon regardless of whether the attack was successful. Fixing a burned out weapon requires 10 minutes of work time and a successful Tinkering test.
 
-### Tether
+### Tether 
 
 Future, Subtle, Standard
 

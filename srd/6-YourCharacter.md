@@ -1,4 +1,4 @@
-<!-- order:4 -->
+<!-- order:6 -->
 # Your Character
 
 Create player characters by choosing your **character concept, investigative abilities,** and **general abilities.**
@@ -17,7 +17,7 @@ For each ability your character has a **pool** of points, which fluctuates over 
 
 The distinction between ratings and pools is a crucial one; keep it in mind as you read and interpret the GUMSHOE rules.
 
-## Step One: Concept
+## Step One: Concept 
 
 *\[Describe the sorts of mystery-solving characters the players will play in your setting, and any preliminary creative decisions each player will make about her character.\]*
 
@@ -169,7 +169,9 @@ Some abilities, like Research, are broadly useful, and will crop up constantly. 
 
 Investigative abilities are divided into the following sub-groups: Academic, Interpersonal, and Technical. The purpose of the sub-groups is to allow you to quickly find the best ability for the task during play, by scanning the most likely portion of the overall list.
 
-*\[Rewrite investigative ability descriptions and example bullet points as needed for your setting. Rename abilities for desired flavor. Create new abilities keyed to your setting. Include only abilities relevant to your setting in your game. Some investigative abilities tie into specific general abilities and vice versa; make sure you either include both relevant abilities, or drop the cross-references between them. Some abilities may subsume more specific abilities from other games; for instance, TimeWatch’s Science\! includes under its aegis the abilities Astronomy, Botany, Chemistry, Natural History, and more. Where appropriate, include Sample Spends to show players what they might accomplish by spending one or more Investigative points.\]*
+*\[Rewrite investigative ability descriptions and example bullet points as needed for your setting. Rename abilities for desired flavor. Create new abilities keyed to your setting. Include only abilities relevant to your setting in your game. Some investigative abilities tie into specific general abilities and vice versa; make sure you either include both relevant abilities, or drop the cross-references between them. Some abilities may subsume more specific abilities from other games; for instance, TimeWatch’s Science\! includes under its aegis the abilities Astronomy, Botany, Chemistry, Natural History, and more. Where appropriate, include Sample Spends to show players what they might accomplish by spending one or more Investigative points*
+
+*Where you see the term spend/Push, use only the one fitting your chosen version of the rules, eliminating the other from your text. Pushes began with QuickShock, and are found on p.* *102. They work as a standalone rules element and can be imported into standard GUMSHOE if desired.\]*
 
 ### Anthropology (Academic)
 
@@ -267,6 +269,32 @@ You study plants and fungi and can:
 
   - spot the symptoms of plant-derived poisonings
 
+### Belle-Lettres (Academic)
+
+As an essayist and journalist, you know how to:
+
+  - identify rich, powerful, and influential persons in your city
+
+  - recall their past exploits and associations, including those too scandalous to print
+
+  - name their allies and enemies
+
+  - understand their political and philosophical leanings
+
+  - argue in a witty and tendentious style, in person or on the page
+
+  - navigate the city’s profusion of newspapers and journals, from the size of their readership to the quirks of their editors
+
+  - recall the gist of articles from local publications, no matter how obscure
+
+You can also treat this as an Interpersonal ability, prying information from otherwise reluctant witnesses by either promising them favorable coverage, or agreeing not to print what you know about them.
+
+### Bonhomie (Interpersonal)
+
+Your sparkling personality delights people, making them want to please and impress you. Their desire to take you into their confidence may lead to indiscretions. Even if they later come to regret sharing secrets with you, they can’t help feeling that it was worth it. You were just too witty, beautiful, and magnetic to resist.
+
+People both aware of, and hostile to, your aims, can disregard your charm enough to withhold the information you seek. Even they won’t be able to stop themselves from liking you, which may soften their behavior toward you—especially if you make a Push.
+
 ### Bullshit Detector (Interpersonal)
 
 You can tell when some people are lying. You must usually be interacting with them or observing them from a close distance, but sometimes you can spot liars on television, too. Unfortunately, nearly everyone lies, especially when facing possible trouble from the authorities. Sometimes you can infer why they’re lying, but it’s hard to reliably discern motive or get at the facts they’re working to obscure. This sense doesn’t tell you what they’re lying about, specifically, or see through their lies to the truth.
@@ -361,9 +389,53 @@ You know how to speak the lingo of police officers, and to make them feel confid
 
   - imply that you are a colleague, authorized to participate in their cases
 
+### Counterinsurgency (Technical)
+
+As a former insurgent yourself, you can now turn the tables and read scenes of sabotage and terrorism for clues leading to the perpetrators. That’s helpful, because these days the rebels are Castaignite dead-enders who want to bring back the old dictatorship.
+
+You can:
+
+  - identify the munitions or weaponry used to stage an attack
+
+  - tell whether a gun has been recently fired
+
+  - find hidden weapons and bombs
+
+  - spot the best places to lie in wait, with or without a sniper rifle
+
+  - look at a location, see how you would attack it, and describe both how the assault would go down and what you’d do to stop it
+
+  - spot supposedly casual onlookers who are in fact sizing up the area, just like you are
+
+On a spend/Push, gain a favor from a fellow member of the movement.
+
 ### Cryptography (Technical)
 
 You’re an expert in the making and breaking of codes, from the simple ciphers of old-school espionage tradecraft to the supercomputer algorithms of the present day.
+
+### Culture (Academic)
+
+As a general follower of the arts, your knowledge fills in the gaps between other characters’ more form-specific awareness of the city’s cultural scene. You know the people, trends, and venues of such art forms as:
+
+  - dance
+
+  - music
+
+  - drama
+
+  - opera
+
+  - music hall
+
+  - ceramics
+
+  - calligraphy
+
+  - stage magic
+
+  - clowning, mime, and circus performance
+
+  - (if applicable to your period) cinema
 
 ### Data Retrieval (Technical)
 
@@ -424,6 +496,46 @@ You’re an expert in bombs and booby-traps. You can:
   - reconstruct exploded bombs, determining their materials, manufacture, and the sophistication of the bomb-maker
 
   - safely construct and detonate explosive devices of your own
+
+### Fashion (Academic)
+
+Being conversant with all aspects of the garment trade, from high to low, you can:
+
+  - evaluate a garment’s workmanship
+
+  - use technical terms of the clothing trade
+
+  - identify the designer of a particular high-end garment
+
+  - read clothing labels, no matter how obscure, tracing items to their makers
+
+  - tell from its style how old a garment is
+
+  - spot the differences between an authentic piece from a noted couturier and an imitation
+
+  - identify the source and type of toiletry items
+
+  - combine clothing items for maximum effect
+
+  - apply makeup and style hair
+
+  - elicit information from workers in the fashion industry, from top designers to harried seamstresses
+
+### Farming (Technical)
+
+Your knowledge of agriculture starts with the practical and may extend to the theoretical. Possible uses while investigating mysteries include:
+
+  - distinguishing between normal and abnormal domestic animal behavior
+
+  - telling which dangerous farm implement caused those wounds
+
+  - identifying the source of crop damage, if natural, or aver that crops have been damaged by no ordinary cause
+
+  - predicting upcoming weather
+
+  - recounting the superstitions, wives’ tales, and folkways of a rural community
+
+Make a spend/Push to find a hidden food cache, refreshing your Scrounging pool.
 
 ### Fingerprinting (Technical)
 
@@ -587,6 +699,26 @@ You’re an expert in recorded human history, with an emphasis on its political,
 
 *\[For TimeWatch, History may be split into Ancient, Contemporary and Future abilities.\]*
 
+#### Hunting (Technical)
+
+As an experienced hunter, you know not only how to find, kill, and prepare edible game, but also how to:
+
+  - follow a track in the wilderness
+
+  - find your way out of the woods when lost
+
+  - understand the behavior of wild animals
+
+  - tell which creature a bone, hank of fur, or feather came from
+
+  - tell whether other people have been in a wild area, and how long ago they passed by
+
+On a spend/Push you can:
+
+  - put hunters at ease or gain assistance from them
+
+  - bag a game animal of your choice (must be native to the area), refreshing your Scrounging pool.
+
 ### Impersonate (Interpersonal)
 
 You’re good at posing as another person, whether briefly misrepresenting yourself during a phone call or spending long periods undercover in a fictional identity.
@@ -613,9 +745,35 @@ You elicit cooperation from suspects by seeming physically imposing, invading th
 
   - quell a subject’s desire to attempt violence against you or others
 
+### Intuition (Technical)
+
+Your acute attention to inexpressible details in your environment allows you to make instinctive leaps of logic you can’t entirely explain. You can sense when a person or place has been touched by eerie influence.
+
+On first meeting, you can sense strangers’ motivations and guess at the dramatic events that drive them. This happens only when you know nothing about them beforehand.
+
+Occasionally you spot, unbidden, a surprising and enlightening connection between two apparently disconnected elements of a place you’re seeing for the first time. For example:
+
+  - when entering a château, you might suddenly and correctly guess that an item is hidden amid the ashes of its fireplace
+
+  - in an asylum, you might realize that a withdrawn patient is having an affair with the chief administrator
+
+  - in a roadside tavern, you might intuit that the smell of meat simmering from the kitchen comes from human flesh
+
+When you first read this description, you may worry that it’s too powerful. There’s a catch, though\! Intuition is a most capricious quality: it works only when it suits the GM’s purposes in moving the story forward. Otherwise, you and the rest of the group have to rely on practical abilities, not hunches.
+
 ### Languages (Academic)
 
 For each rating point in Languages, you are verbally fluent and literate in one language other than your native tongue. You may specify these when you create your character, or choose opportunistically in the course of play, revealing that you just happen to speak Javanese when circumstances require it. You are not learning the language spontaneously but revealing a hitherto unmentioned fact about your character. You may elect to be literate in an ancient language which is no longer spoken.
+
+### Leadership (Interpersonal)
+
+Gain information from others who are your inferiors in the military hierarchy, and from others, civilians included, who crave or respect formal assertions of authority.
+
+Make a spend/Push to impel soldiers lower than you, in your chain of command, to execute an order not only diligently but to the absolute tiptop of their ability.
+
+Make a spend/Push to gain calm and cooperation from civilians who desire order or clear direction.
+
+Make a spend/Push to impress a superior with your ability to command your inferiors, gaining recognition or assistance.
 
 ### Law (Academic)
 
@@ -660,6 +818,18 @@ You are trained in carrying out medical examinations of living human subjects, p
   - perform DNA analysis on subjects, identifying their likely relatives
 
   - interact with medical professionals as a peer, understanding medical jargon and practices from throughout history
+
+### Military History (Academic)
+
+Having studied wars and warfare, you can:
+
+  - inspect weapons, identifying their approximate age, condition, country of origin, and manufacturer, specifying whether they were made for civilian or military use
+
+  - identify battlefields, reconstructing the engagements fought there
+
+  - recall famous battles and the tactics that determined their victors
+
+  - tell the rank and specialty of a soldier, past or present, from their uniform
 
 ### Military Tactics (Academic)
 
@@ -761,6 +931,22 @@ You have lived and worked outdoors and in the wild, possibly during a rural upbr
 
   - track people, animals, or vehicles across grass or through forests
 
+### Painting (Technical)
+
+As a fine art painter of some promise, you can:
+
+  - make quick sketches to retain the key details of a scene
+
+  - remember and distinguish faces and postures of individuals you see in person, no matter how briefly
+
+  - detect unnatural elements in a landscape, for example, a real-life error of perspective suggesting its corruption by alien physics
+
+  - tell forgeries from genuine works
+
+  - determine whether two pictures were produced by the same hand
+
+Making a noteworthy painting requires a spend/Push.
+
 ### Pathology (Academic)
 
 You are trained in carrying out medical examinations of living human subjects and forming diagnoses based on your findings. You can
@@ -777,6 +963,24 @@ You are trained in carrying out medical examinations of living human subjects an
 
 If you have 8 or more points in **Medic** you get **Pathology** 1 for free.
 
+### People Person (Interpersonal)
+
+“Hey, I think my sister works with your aunt\!”
+
+You can make a new acquaintance from any walk of life feel like your new best friend. You chat with folks, learn their stories, and file them in your ever-expanding memory vault. You foster a comfort level that leads them to talk without even realizing that they’ve let their guard down. You can:
+
+  - recall gossip and details about prominent but non-famous people, including details of their careers, romantic lives, and connections to the old regime or People’s Congress
+
+  - deduce details of a person’s biography from the way they speak, dress, and hold themselves
+
+  - reliably intuit whether an otherwise unknown individual you’re meeting in person for the first time fought for or against the Castaignes, or sat the revolution out
+
+  - observe a group of people and see who hates who, who’s sleeping with who, and who wishes they were sleeping with who
+
+  - divine the nature of a person’s ambitions from innocuous small talk
+
+On a spend/Push, get practical assistance, rather than information, from someone you just met.
+
 ### Photography (Technical)
 
 You’re proficient in the use of cameras, including still and video photography. You can:
@@ -786,6 +990,32 @@ You’re proficient in the use of cameras, including still and video photography
   - spot manual retouching or digital manipulation in a photographic or video image
 
   - realistically retouch and manipulate images
+
+### Poetry (Academic)
+
+You study poetry, and write your own. You can recall a variety of historical facts about any culture or era that gave birth to poetry of any kind, from the Sumerians to today. You know Paris’ poets, understanding their rivalries and alliances, and can successfully pass yourself off as an aficionado of any school. You can rattle off the requirements of any form, from the quatrain to the sonnet.
+
+An improvised poem may induce cooperation from anyone who appreciates the form. This costs you nothing when you seek information. Other favors require a spend/Push.
+
+To write a memorable poem, make a spend/Push.
+
+#### Political Science (Academic)
+
+You study the relationships between nations, and between competing branches and factions of government. You can:
+
+  - impress visiting civilian dignitaries, gaining their trust and the disclosures that come with it
+
+  - tell whether a civilian leader is honest or dishonest, competent or incompetent
+
+  - ease disputes between your forces and their allies, or between contending groups from two different allied forces
+
+  - gauge the mood of civilians toward the military
+
+  - enter a village and tell who’s really in charge (which may or may not be the mayor or other official who is supposed to be running things)
+
+  - predict the reactions of a village, town, or city to a proposed action
+
+  - tell when a population’s behavior has gone somehow awry
 
 ### Reassurance (Interpersonal)
 
@@ -805,6 +1035,18 @@ You know how to find factual information from books, records, and official sourc
 
 Your knowledge of social rituals allows you to gain information and favors with a culturally appropriate show of respect for a subject. This ability applies to subjects who consider themselves figures of authority, or who hold real or imagined power over you. By showing respect, you preserve your status as well as the subject’s.
 
+### Salt of the Earth (Interpersonal)
+
+As a farmer or other humble laborer, you get along well with peasants and other ordinary folk. You can:
+
+  - gain their trust, getting them to reveal information they wouldn’t share with a bourgeois or high-hat
+
+  - tell whether a manual task has been done well or poorly
+
+  - at a glance, tell whether a peasant is hardworking or lazy, clever or dimwitted, guileless or treacherous
+
+  - understand the limits of rural civilian cooperation
+
 ### Science\! (Technical)
 
 You’re a scientific and engineering expert, knowledgeable about astronomy, biology, chemistry, physics, and other forms of science. If you have 1 or more points in this ability you may use the General ability Tinkering to fix advanced, high-tech machinery that the GM might otherwise not let you repair.
@@ -820,6 +1062,28 @@ You can:
   - identify drugs and synthesize most chemical compounds if given an adequate laboratory
 
   - determine the usage of mysterious scientific equipment or control panels in an unfamiliar ship or laboratory
+
+### Sculpture (Technical)
+
+As a sculptor of some promise, you know the history and practice of the form. You can:
+
+  - identify the era and culture of archaeological sculptures and objects
+
+  - look at a work and name its maker, if he is a known figure, no matter how obscure
+
+  - tell a fake from the genuine item
+
+  - discourse on metallurgy
+
+  - distinguish various sorts of clay from one another
+
+  - calculate how much weight a floor can support
+
+To create a memorable work, make a spend/Push.
+
+### Society (Interpersonal)
+
+Accustomed to traveling in polite society, you understand the etiquette and mores of the ruling class and *haute bourgeoisie*. You gain cooperation and information from persons of good standing by winning their trust, as one who knows how to behave and exercise discretion. You know where these people live and how to gain entrance to their parlors to talk to them without arousing suspicion. Regular study of the society pages keeps you up to date on all of the latest betrothals, marriages, births, and business arrangements. On a spend/Push, you can gain non-informational favors from society types.
 
 ### Spying (Technical)
 
@@ -865,6 +1129,40 @@ However you manage it, you know how to make people angry enough to talk before t
 
   - make a subject desire to attempt violence against you or others
 
+### Terrain (Technical)
+
+You understand geography from a warrior’s point of view. You can:
+
+  - read maps
+
+  - point out anomalies and mistakes on maps
+
+  - spot the best available sniper position
+
+  - distinguish readily defensible positions from those the enemy will easily overrun
+
+  - find good places to hide—which are also likely spots to be ambushed from
+
+  - tell when something bizarre has affected the landscape
+
+  - predict lighting conditions in a given location at various times of day under various degrees of cloud cover
+
+  - rattle off the current lunar phase without resorting to an almanac
+
+  - orient yourself without a compass
+
+### Textual Analysis (Academic)
+
+By studying the content of texts (as opposed to their physical characteristics of documents) you can draw reliable inferences about their authorship. You can:
+
+  - determine if an anonymous text is the work of a known author, based on samples of his work
+
+  - determine the era in which a text was written
+
+  - identify the writer’s region, and level of education
+
+  - tell a real work by an author from a false one
+
 ### Tradecraft (Interpersonal)
 
 You know how to utilize the techniques of conventional espionage agents, and how to talk to them if you must hold a meet. You can:
@@ -884,18 +1182,6 @@ You know how to utilize the techniques of conventional espionage agents, and how
   - make contact with operatives without scaring them off
 
   - convey information or threats elliptically without tipping off eavesdroppers
-
-### Textual Analysis (Academic)
-
-By studying the content of texts (as opposed to their physical characteristics of documents) you can draw reliable inferences about their authorship. You can:
-
-  - determine if an anonymous text is the work of a known author, based on samples of his work
-
-  - determine the era in which a text was written
-
-  - identify the writer’s region, and level of education
-
-  - tell a real work by an author from a false one
 
 ### Traffic Analysis (Technical)
 
@@ -1029,13 +1315,21 @@ Many General abilities also function as **Investigative** abilities, either when
 
 \[*Some GUMSHOE games, like Ashen Stars, maintain a tighter separation between investigative and general abilities, so that the general Business Affairs ability, used to keep a crew’s finances humming, doesn’t garner you the clues you get from the investigative Forensic Accounting ability. To use this more restrictive approach, omit the above paragraph.\]*
 
-### Athletics
+### Artillery (Physical)
+
+*Allows you to operate weaponry systems too large to be carried by a person, including mortars and high-caliber mounted guns.*
+
+### Athletics (Physical)
 
 Athletics allows you to perform general acts of physical derring-do, from running to jumping to dodging falling or oncoming objects. Any physical action not covered by another ability, probably falls under the rubric of Athletics.
 
 If your Athletics rating is 8 or more, your Hit Threshold, the Target Number your opponents use when attempting to hit you in combat, is 4. Otherwise, your Hit Threshold is 3.
 
-### Burglary
+### Battlefield (Focus)
+
+Since Agincourt the main way not to be killed in battle is to remain outside the kill zone created by incoming fire. Use this ability to remain alive in the midst of a mass combat or while under bombardment. In *Paris* you mostly used Athletics to avoid injury hazards; here you rely chiefly on Battlefield.
+
+### Burglary (Focus)
 
 You’re good at placing yourself inside places you have no right to be, and you’re good at taking things once you’re there. With a successful Burglary test, you can:
 
@@ -1053,17 +1347,23 @@ You’re good at placing yourself inside places you have no right to be, and you
 
 Many locks require specialized tools that can be produced with a Preparedness test; such tools range from simple lock picks to sonic high-tech multi-tools. Complex or tricky locks may have a higher than usual Difficulty to open them speedily, to avoid noise or damage, or to relock afterward.
 
-### Business Affairs
+### Business Affairs (Presence)
 
 You know how to run a profitable business.
 
-### Conceal
+### Composure / Stability (Presence)
+
+Jarring or stressful events can exert a damaging long- psychological toll. Your Stability rating indicates your resistance to mental trauma.
+
+*\[Standard GUMSHOE\]* You get 1 point for free.
+
+### Conceal (Focus)
 
 You can hide things from view and conceal them from search. Your methods might include camouflage, holding items out on your person, snaking things into drawers unobserved, building secret compartments, or even altering a thing’s visual signature with paint or plaster.
 
 This ability also allows you to discover things intentionally concealed.
 
-### Disguise
+### Disguise (Presence)
 
 This is the skill of altering your own appearance, posture, and voice to be unrecognizable. Disguising others in anything more complex than a baseball cap or false mustache is good only for brief periods, as posture and body language are vital components in any successful disguise.
 
@@ -1071,7 +1371,7 @@ This ability also covers selling yourself as a different person: vocal mannerism
 
 Successfully disguising yourself as an actual person already known to those you’re interacting with is extraordinarily difficult. Brief voice-only mimicry pits you against a Difficulty of 4. Face-to-face impersonation requires a successful roll against a Difficulty of 7 for every five minutes of sustained contact between you and the object of your impersonation.
 
-### Driving
+### Driving (Physical)
 
 You’re a skilled defensive driver, capable of wringing high performance from even the most recalcitrant automobile, pick-up truck, or van. You can:
 
@@ -1085,7 +1385,7 @@ You’re a skilled defensive driver, capable of wringing high performance from e
 
 For every additional rating point in Driving, you may add an additional vehicle type to your repertoire. These include: motorcycle, transport truck, helicopter, or airplane. You may choose exotic types, like hovercrafts and tanks, although these are unlikely to see regular use in an investigation-based game.
 
-### Explosives
+### Explosives (Focus)
 
 You’re an expert in bombs and booby-traps. You can:
 
@@ -1105,7 +1405,15 @@ Explosives doubles as an investigative ability when used to:
 
   - for any bomb (exploded or unexploded), determine the method and materials of the bomb-maker, and deduce his sophistication, background, and skill
 
-### Filch
+### Fighting (Physical)
+
+Used when you enter into physical struggle with adversaries, including not only combat but also fleeing and pursuit.
+
+You will have to pay a Toll, even when otherwise victorious, to avoid taking a Minor Injury. You can use Fighting points (along with Health and Athletics) to pay Tolls.
+
+*\[This catch-all combat ability encompasses Fleeing, Shooting, and Scuffling.\]*
+
+### Filch (Focus)
 
 Your nimble fingers allow you to unobtrusively manipulate small objects. You can:
 
@@ -1115,13 +1423,13 @@ Your nimble fingers allow you to unobtrusively manipulate small objects. You can
 
   - plant objects on unsuspecting subjects
 
-### Fleeing
+### Fleeing (Physical)
 
 Although you are not a strong overall athlete, you can boot it like a bat out of hell when chased by dangerous people, beings, or moving objects.
 
 If your Fleeing rating is more than twice your final Athletics rating, you can buy rating points in Fleeing above the value at a reduced rate, getting 2 rating points for each build point spent. Hence, if your Athletics rating is 0, all your Fleeing is half-price.
 
-### Gambling
+### Gambling (Presence)
 
 You are conversant with the rules and etiquette of all forms of gambling, from Texas hold ‘em and roulette to horse racing and numbers rackets. To win (or strategically lose) at a game of chance or sporting flutter requires a Gambling test, or a contest if played against an NPC with the Gambling ability. In addition to playing by the rules and winning, you can:
 
@@ -1139,13 +1447,13 @@ Gambling doubles as an **Investigative** ability when used to:
 
   - interact with gamblers and blend in at casinos
 
-### Health
+### Health (Physical)
 
 Health measures your ability to sustain injuries, resist infection, and survive the effects of toxins\[1\]. When you get hit in the course of a fight, your Health pool is diminished. A higher Health pool allows you to stay in a fight longer before succumbing to your injuries.
 
-When your Health pool is depleted, you may be dazed, wounded, or pushing up the daisies. For more on this, see “[Exhaustion, Injury and Gruesome Death](#_toc747).”
+*\[Standard GUMSHOE\]* When your Health pool is depleted, you may be dazed, wounded, or pushing up the daisies. For more on this, see “[Exhaustion, Injury and Gruesome Death](#_toc747).”
 
-### Hypnosis
+### Hypnosis (Presence)
 
 This ability represents medical hypnosis as depicted in pulpy genre sources; it is not psychic mesmerism or Dr Caligari-style mind control. You can only hypnotize a *willing* subject, and only one subject at a time. Using Hypnosis requires a Test against a Difficulty Number that varies depending on what you are using it for.
 
@@ -1161,7 +1469,7 @@ This ability represents medical hypnosis as depicted in pulpy genre sources; it 
 
 • *False memories:* You can purposely implant false memories in the patient or bury real ones. This is extremely unethical without a direct therapeutic benefit (such as easing a remembered trauma). This is a Contest between your Hypnosis and the patient’s Stability. Your Difficulty Number is 5; the patient resists with Difficulty 4. Again, the GM may increase your Difficulty based on the severity of the memory change. At the GM’s discretion, if the patient suffers a further trauma (such as her Stability dropping below -5 again), she may suddenly recall the truth.
 
-### Infiltration
+### Infiltration (Physical)
 
 You’re good at placing yourself inside places you have no right to be. You can:
 
@@ -1175,7 +1483,23 @@ You’re good at placing yourself inside places you have no right to be. You can
 
 Despite its name, Infiltration is as useful for getting out of places undetected as if its for getting into them.
 
-### Mechanics
+### Insurgency (Focus)
+
+This ability incorporates Traps and Bombs, plus the following:
+
+Before attacking human (or strongly human-like) targets in a location you have the opportunity to case in advance, you can devise the most efficient plan of attack, dealing maximum harm at minimum risk.
+
+Make an Insurgency test with a Difficulty keyed to the location: 4 for most civilian targets, 5 for a secure military target, 6 for an ultra-secure installation.
+
+On success with a margin of 2 or less, all combatants on your side get a +1 Fighting bonus. A higher margin nets a +2 bonus for all.
+
+This also allows you to defend against attackers using guerrilla tactics against a position you have had time to hunker down in. Here the Difficulties flip: 6 for a civilian location, 5 for military, 4 for ultra-secure. When defending you can make a Counterinsurgency Push for a +4 bonus on your roll.
+
+Insurgency tests take the place of extended planning sessions in which players manage the tactical details of an assault, just as Preparedness skips the part in a classic RPG experience where you dutifully note in advance every item you’re carrying around with you.
+
+After a successful Insurgency test, ask the player, abetted by anyone else in the group who likes to describe skirmishes in loving Tom Clancy-esque detail, to describe the clever plans they’ve laid for their soon-to-be-attacked targets. In the ensuing Fighting test, they can describe them working to superb effect (if the group wins), or the GM can describe them being countered by a victorious foe.
+
+### Mechanics (Focus)
 
 You’re good at building, repairing, and disabling devices, from classic pit-and-pendulum traps to DVD players. Given the right components, you can create jury-rigged devices from odd bits of scrap. Mechanics doubles as an investigative ability when used to:
 
@@ -1185,13 +1509,47 @@ You’re good at building, repairing, and disabling devices, from classic pit-an
 
 *\[You may wish to maintain the flavor of certain settings by splitting this into multiple disciplines, each specializing in its own particular subset of technology. In TimeWatch, this ability is named Tinkering.\]*
 
-### Medic
+### Medic / First Aid (Focus)
 
-You can perform first aid on sick or injured individuals. For more on the use of this ability, see “Exhaustion, Injury, and Death.”
+You can perform first aid on sick or injured individuals.
 
-If you have 8 or more points in Medic, you get 1 point in Pathology.
+### Morale (Presence)
 
-### Piloting
+Think of Morale as the outward-going counterpart to Composure. When the terrors of war impel other soldiers to flee or curl up into a ball, a Morale success returns them to their senses and keeps them fighting.
+
+As long as your character can be heard by another PC, you can spend any number of points from your Morale pool to refresh that PC’s Composure pool by the same number of points. The GM may ask you to describe or act out the inspiring speech or exclamation that fills the recipient with renewed resolve.
+
+You can’t use Morale to refill your own Composure pool.
+
+In addition, you can make Morale tests to:
+
+  - allow other PCs to discard certain Shock cards (when the text of the card says this is possible)
+
+  - motivate GMC soldiers to risk their lives, as they were trained to do
+
+### Network (Focus)
+
+You know somebody, probably but not necessarily from your days in the resistance, who can help you with a tricky, but no more than moderately dangerous, logistical problem. Test this ability not to solve the main problem you currently face, but a secondary dilemma that would otherwise distract you from the main problem. They don’t do things for you; they make it easier for you to do things.
+
+With Network you might:
+
+  - tap a couple of experienced operators to protect a witness while you continue your investigation
+
+  - find a sniper to fire a well-timed round that will drive opponents into your ambush, (and then slip away, leaving you to risk your skin in the actual fight)
+
+  - know an absolutely discreet chop shop where you can get the vehicle you used in an operation quickly disassembled, no questions asked
+
+  - borrow restricted weapons
+
+  - gain access to a vault where you can stash the evidence you’ve collected
+
+  - get that priest who used to shelter dissidents to make his cathedral available as neutral ground for a secret meeting
+
+### Politics (Presence)
+
+Politics tests allow you to win over allies and fend off rivals as you pursue the group Goal that runs as a subplot in parallel with your investigation into a scenario’s central mystery.
+
+### Piloting (Physical)
 
 You can fly one or more airborne vehicles. You can:
 
@@ -1209,7 +1567,7 @@ You can fly one or more airborne vehicles. You can:
 
 *\[You may require the player to specify a particular type of craft, gaining 1 vehicle per 2 rating points. Rewrite to reflect the air vehicles prevalent in your setting. In some settings you might include water craft in this ability.\]*
 
-### Preparedness
+### Preparedness (Presence)
 
 You expertly anticipate the needs of any mission by packing a kit efficiently arranged with necessary gear. Assuming you have immediate access to your kit, you can produce whatever object the team needs to overcome an obstacle. You make a simple test; if you succeed, you have the item you want. You needn’t do this in advance of the adventure, but can dig into your kit bag (provided you’re able to get to it) as the need arises.
 
@@ -1223,13 +1581,13 @@ The sorts of items you can produce at a moment’s notice depend not on your rat
 
 Inappropriate use of the Preparedness ability is like pornography. Your GM will know it when she sees it.
 
-### Public Relations
+### Public Relations (Presence)
 
 You manage the public image of your team or others. You unruffle feathers, burnish reputations, downplay failures, and trumpet successes.
 
 When keeping the locals onside during a case, the GM may allow you to spend Reassurance or Respect points on Public Relations tests.
 
-### Riding
+### Riding (Physical)
 
 Although staying on a tame, untroubled walking horse (on flattish terrain, anyway) is relatively easy once one gets the hang of it, and staying on a mule or burro even easier, you are a gifted equestrian. You can gallop even recalcitrant or spirited horses, donkeys, and mules past distractions and across the countryside. You can:
 
@@ -1247,13 +1605,23 @@ Although staying on a tame, untroubled walking horse (on flattish terrain, anywa
 
 For every additional 2 rating points in Riding, you may add an additional riding animal: camel, water buffalo, or elephant.
 
-### Scuffling
+### Scrounging (Presence)
+
+Allows you to find needed items in or around a war zone, through a mixture of ingratiation, horse-trading, and perhaps the odd moment of outright stealing.
+
+Think of it as Preparedness for needs you had no way of preparing for.
+
+In a restful moment or pause in the action, you can refresh a single other PC’s Battlefield pool by producing a scrounged item that brings cheer or solace. You must describe it and can’t describe the same item more than once in a single scenario. Items might include: baguettes, sausages, champagne bottles, books, cigars, shaving cream, or shampoo. Choose a number of Scrounging points to spend: the recipient refreshes Battlefield by the same amount. You can’t transfer points from Scrounging to your own Battlefield pool.
+
+Use Scrounging to refresh the entire squad’s Battlefield and Athletics pools by Hunkering Down;
+
+### Scuffling (Physical)
 
 You can hold your own in a hand-to-hand fight, whether you wish to kill, knock out, restrain, or evade your opponent.
 
 *\[To preserve the flavor of certain settings you may wish to break this out into two abilities, for armed and unarmed close combat.\]*
 
-### Sense Trouble
+### Sense Trouble (Presence)
 
 Keen perceptions allow you to spot signs of potential danger to yourself and others. Information gained from this ability might save your skins but doesn’t directly advance the central mystery. You might use it to:
 
@@ -1269,21 +1637,21 @@ Players never know the Difficulty Numbers for Sense Trouble before deciding how 
 
 When more than one player is able to make a Sense Trouble test, the group decides which of them makes the attempt. Only one attempt per source of trouble occurs, conducted by the chosen PC.
 
-### Shrink
+### Shrink (Presence)
 
 You can provide comfort, perspective and solace to the mentally troubled. You may be a therapist or counselor, a priest or pastor, or just a empathetic and intuitive individual. You can restore panicked characters to a state of calm, and treat any long-term mental illnesses they accrue in the course of their investigations.
 
-### Shooting
+### Shooting (Physical)
 
 You are adept with firearms.
 
-### Stability
+### Composure / Stability (Presence)
 
 Jarring or stressful events can exert a damaging long- psychological toll. Your Stability rating indicates your resistance to mental trauma.
 
-You get Stability 1 for free.
+*\[Standard GUMSHOE\]* You get Stability 1 for free.
 
-### Surveillance
+### Surveillance (Focus)
 
 You’re good at following suspects without revealing your presence. You can:
 
@@ -1299,7 +1667,11 @@ You’re good at following suspects without revealing your presence. You can:
 
 8 or more points in Surveillance grants you 1 free point of the investigative ability Electronic Surveillance.
 
-### Unobtrusiveness
+### Traps and Bombs (Focus)
+
+Use this ability to set or disarm mines, explosive charges, and booby traps. The latter may be explosive or purely mechanical.
+
+### Unobtrusiveness (Focus)
 
 You’re good at noticing other people trying to be unobtrusive, just as you’re skilled at hiding and avoiding notice. It’s up to you whether you use skill, technology, minor psychic prowess, or a combination of those to blend into the background. With a successful Unobtrusiveness test, you can:
 

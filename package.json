@@ -4,12 +4,12 @@
   "description": "Gumshoe SRD",
   "main": "index.js",
   "scripts": {
-    "pandoc": "pandoc -t gfm --wrap=none -o GumshoeSRD.md src/GUMSHOESRDCC-2.docx",
+    "pandoc": "pandoc -t gfm --wrap=none -o GumshoeSRD.md src/GUMSHOE_SRD_CC_3.docx",
     "split": "split-md GumshoeSRD.md '# ' '#' 'srd/' undefined true",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Randy Oest <oest@amazingrando.com>",
-  "license": "CC_by_3.0",
+  "license": " CC-BY-3.0",
   "dependencies": {
     "split-md": "^0.3.0"
   }

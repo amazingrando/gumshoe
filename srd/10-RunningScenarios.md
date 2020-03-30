@@ -1,4 +1,4 @@
-<!-- order:8 -->
+<!-- order:10 -->
 # Running Scenarios
 
 The GUMSHOE Rules System covers much of what you need to run The Esoterrorists; this section supplements that with additional GM-centric advice.
